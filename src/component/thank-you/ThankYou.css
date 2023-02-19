@@ -1,0 +1,28 @@
+.all_img{
+  background-color:#fefede ;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  height: 600px;
+  padding-top: 200px;
+}
+.thankYou{
+  color: #187c3b;
+  font-weight:900 ;
+}
+.thankYou_h5{
+ color: #187c3b;
+ padding-top:20px;
+ font-weight:700 ;
+}
+.back_to{
+    background-color: #187c3b;
+    color: #fff;
+    border-radius: 10px;
+    border-style:none ;
+    width: 200px;
+    height: 50px;
+}
+.tick_thankYou{
+width:120px;
+}

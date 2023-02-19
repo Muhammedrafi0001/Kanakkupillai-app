@@ -1,0 +1,89 @@
+.ragistration_first{
+    background-color: #fafafa;
+    height: 600px;
+    display: flex;
+    justify-content:space-between;
+    /* align-items:center ; */
+    
+    
+}
+.ragistration_first_one{
+/* width:1000px; */
+margin-top: 49px;
+
+}
+.ragistration_first_tow{
+    margin-top: 49px;
+    margin-right: 49px;
+
+}
+
+.div_three_button{
+    display: flex;
+    border: 1px solid grey;
+   justify-content:space-between ;
+    height: 40px;border-radius: 20px;
+    align-items: center;
+    margin-top: 17px;
+    margin-bottom: 20px;
+}
+.move_button{
+    width:80px;
+    height: 30px;
+    border-radius: 20px;
+    cursor: pointer;
+    background: rgb(200, 196, 196);
+    color: #fff;
+    border-style: none;
+
+    
+}
+.tabs{
+    width:80px;
+    height: 30px;
+    border-radius: 20px;
+    cursor: pointer;
+    outline: none;
+    position:relative;
+    background: white;
+    border-style: none;
+}
+.market_all{
+
+    padding-left: 30px;
+    
+}
+.market_Price{
+ 
+text-decoration: line-through;
+}
+
+.price_color{
+ color: #df8208; 
+ font-weight: 900;  
+
+}
+
+.ragistration_first_three{
+    margin-top: 9px;
+    margin-bottom: 30px;
+    
+    height: 400px;
+
+}
+.GETSTARTE-D{
+    width: 400px;
+    height: 350px;
+    margin-top: 80px;
+    border: solid rgb(237, 237, 237);
+   padding-left: 40px
+}
+.get_button{
+    
+    background-color: rgb(15, 152, 50);
+    border-style: none;
+    border-radius: 10px;
+    color: #fff;
+    width: 186px;
+    height: 35px;
+}
