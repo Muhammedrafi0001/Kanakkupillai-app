@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Kanakkupillai-app/static/css/main.f8ee1947.css",
+    "main.js": "/Kanakkupillai-app/static/js/main.e38b8223.js",
+    "static/js/787.b1334d66.chunk.js": "/Kanakkupillai-app/static/js/787.b1334d66.chunk.js",
+    "index.html": "/Kanakkupillai-app/index.html",
+    "main.f8ee1947.css.map": "/Kanakkupillai-app/static/css/main.f8ee1947.css.map",
+    "main.e38b8223.js.map": "/Kanakkupillai-app/static/js/main.e38b8223.js.map",
+    "787.b1334d66.chunk.js.map": "/Kanakkupillai-app/static/js/787.b1334d66.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8ee1947.css",
+    "static/js/main.e38b8223.js"
+  ]
+}
